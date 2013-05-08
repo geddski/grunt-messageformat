@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # grunt-messageformat
 
 > Grunt task for MessageFormat.js compilation
@@ -87,8 +86,3 @@ grunt.initConfig({
 In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com/).
 
 ## Release History
-_(Nothing yet)_
-=======
-grunt-messageformat
-===================
->>>>>>> 36e7ce26f3cbc0c1d3988355d7051312fee93419
